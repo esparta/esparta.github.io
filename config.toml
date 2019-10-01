@@ -1,0 +1,72 @@
+baseurl = "https://esparta.co/"
+title = "esparta.co"
+languageCode = "en-us"
+
+publishdir = "public_html"
+
+# Theme to use
+theme = "simple"
+
+# Pagination
+paginate = 3
+paginatePath = "page"
+
+# Copyright
+copyright = "© 2019 — Espartaco Palma — CC BY 4.0"
+
+# Highlighting
+pygmentsCodefences = true
+pygmentsCodeFencesGuessSyntax = true
+pygmentsoptions = "linenos=table"
+pygmentsStyle = "vs"
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Menu
+[menu]
+  # Header
+  [[menu.main]]
+    url = "/posts/"
+    name = "blog"
+    weight = 1
+  [[menu.main]]
+    url = "/about/"
+    name = "about"
+    weight = 2
+  [[menu.main]]
+    url = "/this/"
+    name = "this.place"
+    weight = 3
+  [[menu.main]]
+    url = "/contact/"
+    name = "contact"
+    weight = 4
+
+  # Footer
+  [[menu.footer]]
+    url = "https://github.com/esparta"
+    name = "GitHub"
+    weight = 1
+  [[menu.footer]]
+    url = "/posts/index.xml"
+    name = "RSS"
+    weight = 2
+  [[menu.footer]]
+    url = "https://twitter.com/esparta"
+    name = "Contact"
+    weight = 3
+
+
+# Links format
+[permalinks]
+  posts = "/posts/:slug/"
+
+[params]
+  description  = "esparta.co"
+  images = ["https://static.esparta.co/images/header_esparta.co.png"]
+  twitter_handle = "esparta"
+  # Date format (default: Jan 2, 2006)
+  datefmt  = "2006-01-02"
