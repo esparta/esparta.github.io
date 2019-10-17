@@ -6,4 +6,4 @@ description:
 
 "Just let it flow"... That used to be my motto, and still is.
 
-![Sunset](https://static.esparta.co/images/sunset001.jpg)
+![Sunset](https://static.esparta.co/images/sunset001_thumb.jpg)
