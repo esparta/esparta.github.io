@@ -154,10 +154,10 @@ those DNS servers were also close to the given location.
 
 ![DNS in JP][ffpn_dns_japan]
 
-This technique is of course not new, the Cloudflare's [1.1.1.1][one] was also
-doing this since day one. One of the reason is per security concerns, the one
-checking on who's your DNS provider would find that you are one of the millions
-of Cloudflare direct or inderect users.
+Of cuorse this technique is not new, the Cloudflare's [1.1.1.1][one] was also
+doing this since day one. One of the reason is per security concerns: the one
+checking on who's your DNS provider would only find that you browser is just
+one of the millions of Cloudflare direct or inderect connections.
 
 **DNS conclusions**: I was not able to find any concerns on what is doing
 related to DNS, it's the same protection provided by Cloudflare since a long
@@ -213,7 +213,7 @@ way better than just connect and use as in nothing can happen.
 [^1]: No, I did not travel to Japan, but that would be cool.
 [^2]: I have never been in Netherlands, but that also would be cool.
 [^3]: I'm well aware the TOS prohibits their use when you are not physically in USA.
-[^4]: That's why we can't have nice thing. And is wrost when are free.
+[^4]: That's why we can't have nice thing. And is worst when are free.
 
 [firefox]: https://mozilla.org/firefox
 [tuit_sept_2019]: https://twitter.com/esparta/status/1174020190129901568
