@@ -187,7 +187,7 @@ what would be the case.
 
 The above is not a technical problem, and will be difficult to solve with an
 _Acceptable Use_ document (sorry, I didn't find it). Or maybe the extension
-would need some kind of _practical limit_ (around 2 GB per month?) of data
+would need some kind of _practical limit_ (around 200 GB per month?) of data
 transfered using the extension.
 
 ## Minimal problems

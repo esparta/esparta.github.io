@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-There's several place where you can contact me:
+There are severals place where you can contact me:
 
 - [Twitter](https://twitter.com/esparta) or
   [Mastodon](http://ruby.social/@esparta)
