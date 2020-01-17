@@ -6,7 +6,7 @@ There are severals place where you can contact me:
 
 - [Twitter](https://twitter.com/esparta) or
   [Mastodon](http://ruby.social/@esparta)
-- On email: esparta@ [tutanota dot com](https://tutanota.com)
+- On email: contact @ esparta.co with my PGP key
 - [Keybase](http://keybase.io/esparta)
 
 My google email is still open, but I suggest to start using any of the above
