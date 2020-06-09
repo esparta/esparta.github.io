@@ -8,7 +8,7 @@ publishdir = "public_html"
 theme = "simple"
 
 # Pagination
-paginate = 3
+paginate = 10
 paginatePath = "page"
 
 # Copyright
