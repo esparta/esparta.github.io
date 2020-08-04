@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/esparta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://esparta.co
+  * I am esparta (https://keybase.io/esparta) on keybase.
+  * I have a public key ASCtaW8m4teli6oUo301b_LdlES6onumXBIZXp9dYf5lQQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010147a9aa57ca7352d4b16cd0090158527882df508df59c382acf6f0d3c62283b6d0a",
+      "host": "keybase.io",
+      "kid": "0120ad696f26e2d7a58baa14a37d356ff2dd9444baa27ba65c12195e9f5d61fe65410a",
+      "uid": "cf64869fa62bac9d0e24d942ded2d100",
+      "username": "esparta"
+    },
+    "merkle_root": {
+      "ctime": 1581160730,
+      "hash": "6cd84b0d44ff93c2e85030c3a72736b17711f547891943b7c548027b6aa6a3ad5953e139803d5cc6ea79076f5b24f83d14c99cbd57b2d090a349c38acd2abb7f",
+      "hash_meta": "109960ac594391e88e6338fd444656daa5c5cfc030e2919f32d61aeffcc19fed",
+      "seqno": 14533662
+    },
+    "service": {
+      "entropy": "ig6wbDtjcZqRY4NDNVIZ2Scu",
+      "hostname": "esparta.co",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1581160744,
+  "expire_in": 504576000,
+  "prev": "c641adf3bc0fbcce2d11975a497f5e0b2cf202e26eaad7f87c995fa6f02195ba",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrWlvJuLXpYuqFKN9NW/y3ZREuqJ7plwSGV6fXWH+ZUEKp3BheWxvYWTESpcCJcQgxkGt87wPvM4tEZdaSX9eCyzyAuJuqtf4fJlfpvAhlbrEIBHcx0vPL8JKgtjwD5yIpMXRHCPkbWHsJGZFV7/stmigAgHCo3NpZ8RAZEETn+gm+nCiGw9w2f0fF8WSX2mU3nspAwjn2QzxipjkD+66ljZvci82Rzgqn6AqGZRZY8Ee0o9xUwt3UX7PBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGVqw7jIbRZ7DcDskOkQeMo+BPzIaNbOWIMnrYEFmzlYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/esparta
+
+==================================================================
