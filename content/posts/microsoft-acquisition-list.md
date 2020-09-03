@@ -2,6 +2,7 @@
 title: "Microsoft's Acquisition List"
 date: 2020-05-29T10:30:31-07:00
 slug: "0003"
+tags: [microsoft, monopolies]
 description: "Once upon a time Microsoft was dominant in the developers
 micro world. It looks like it's happening again"
 images: [https://static.esparta.co/images/posts/0003/acquisition_button.jpg]
