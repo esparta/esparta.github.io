@@ -2,7 +2,7 @@
 title: "About intellectual monopolies in Tech Conferences"
 slug: "0004"
 date: 2020-06-09T00:46:34-07:00
-draft: true
+draft: false
 tags: [conferences, monopolies]
 description:
   Are you eager to help reducing the inequality related to speaker conferences?
