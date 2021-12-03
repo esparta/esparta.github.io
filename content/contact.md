@@ -8,8 +8,7 @@ There are severals place where you can contact me:
 - [Twitter](https://twitter.com/esparta) or in the Fediverse:
   [Fosstodon](https://fosstodon.org/@esparta) &
   [Ruby Social](https://ruby.social/@esparta)
-- [Keybase](http://keybase.io/esparta)
-- On email: contact @ esparta.co with my [PGP key][pgp_key]
+- On email: contact @ \<this domain\> with my [PGP key][pgp_key]
 
 My google email is still open, but I suggest you to start using any of the above
 lines of contact, they are on ascending  _Security Level_ order,
