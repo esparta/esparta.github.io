@@ -1,3 +1,4 @@
 resources/
 static/images
 public_html
+.hugo_*

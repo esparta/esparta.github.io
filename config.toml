@@ -37,10 +37,6 @@ pygmentsStyle = "vs"
     name = "about"
     weight = 2
   [[menu.main]]
-    url = "/this/"
-    name = "this.place"
-    weight = 3
-  [[menu.main]]
     url = "/privacy/"
     name = "privacy"
     weight = 4
