@@ -79,7 +79,7 @@ BY-NC 4.0: [source][behance] & [search][privacy_link]
 [https]: https://en.wikipedia.org/wiki/HTTPS
 [https_important]: https://kevq.uk/why-https-is-important/
 [cookie_metrix_image]: https://static.esparta.co/images/cookie_metrix.jpg
-[cookie_metrix]: https://www.cookiemetrix.com/display-report/esparta.co/b994010ce28d6118d3ceabe430eff1cd
+[cookie_metrix]: https://www.cookiemetrix.com/display-report/esparta.co/7548b23ce21fd241701717c9e5397f58
 [cc_link]: https://creativecommons.org/licenses/by/4.0/
 [kevq_privacy]: https://kevq.uk/privacy/
 
